@@ -20,5 +20,8 @@
     "bugs": {
         "url": "https://github.com/npm-node/hbhelpers/issues"
     },
-    "homepage": "https://github.com/npm-node/hbhelpers#readme"
+    "homepage": "https://github.com/npm-node/hbhelpers#readme",
+    "dependencies": {
+        "handlebars": "^4.7.6"
+    }
 }
