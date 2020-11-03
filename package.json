@@ -1,6 +1,6 @@
 {
     "name": "@npm-node/hbhelpers",
-    "version": "0.0.1-alpha",
+    "version": "0.0.2-alpha",
     "description": "express项目中handlebars模板的helper",
     "main": "index.js",
     "scripts": {
