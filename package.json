@@ -1,0 +1,24 @@
+{
+    "name": "@npm-node/hbhelpers",
+    "version": "0.0.0-alpha",
+    "description": "express项目中handlebars模板的helper",
+    "main": "index.js",
+    "scripts": {
+        "test": " "
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/npm-node/hbhelpers.git"
+    },
+    "keywords": [
+        "handlebars",
+        "helper",
+        "express"
+    ],
+    "author": "yanxianping",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/npm-node/hbhelpers/issues"
+    },
+    "homepage": "https://github.com/npm-node/hbhelpers#readme"
+}
